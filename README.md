@@ -11,7 +11,7 @@ We are most importantly interested in contributing to the accelerated success of
 
 Join us as we build a formidable network of 100k builders across the African continent.
 
-🔭 **Find OpenBuilD on the Web** https://3weblabs.io/openbuild
+🔭 **Find OpenBuilD on the Web** https://3weblabs.io/openbuild <a> Click Here </a>
 
 💬 **Find OpenBuilD on Twitter** https://twitter.com/i/communities/1618915095081373697
 

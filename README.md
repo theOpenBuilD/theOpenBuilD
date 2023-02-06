@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/124597082/217016949-27e00979-6cc2-478a-ab3e-b6e3e68cfe2e.png)
+
+
 ### Hi there 👋 welcome to the **theOpenBuilD**📦
 Built by Africans for Africa & the World
 
